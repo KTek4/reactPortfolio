@@ -1,9 +1,9 @@
-import projectsData from "../../assets/js/projects";
+import projectsData from "../../../assets/js/projects";
 
-export default function Blog() {
+export default function Project() {
   return (
     <div>
-      <h1>Blog Page</h1>
+      <h1>Projects</h1>
       <div className="cards-container">
         {projectsData.map((project, index) => (
           <div className="card" key={index}>

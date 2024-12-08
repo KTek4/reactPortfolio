@@ -1,9 +1,9 @@
-import img1 from 'new-portfolio/src/assets/imgs/awkward.jpg'
-import img2 from 'new-portfolio/src/assets/imgs/book.jpg'
-import img3 from 'new-portfolio/src/assets/imgs/dragon.jpg'
-import img4 from 'new-portfolio/src/assets/imgs/griffin.jpg'
-import img5 from 'new-portfolio/src/assets/imgs/pegasus.jpg'
-import img6 from 'new-portfolio/src/assets/imgs/werewolf.jpg'
+import img1 from 'C:/Users/krana/Desktop/UofM-VIRT-FSF-PT-08-2024-U-LOLC/Challenges/Challenge 12/new-portfolio/src/assets/imgs/awkward.jpg'
+import img2 from 'C:/Users/krana/Desktop/UofM-VIRT-FSF-PT-08-2024-U-LOLC/Challenges/Challenge 12/new-portfolio/src/assets/imgs/book.jpg'
+import img3 from 'C:/Users/krana/Desktop/UofM-VIRT-FSF-PT-08-2024-U-LOLC/Challenges/Challenge 12/new-portfolio/src/assets/imgs/dragon.jpg'
+import img4 from 'C:/Users/krana/Desktop/UofM-VIRT-FSF-PT-08-2024-U-LOLC/Challenges/Challenge 12/new-portfolio/src/assets/imgs/griffin.jpg'
+import img5 from 'C:/Users/krana/Desktop/UofM-VIRT-FSF-PT-08-2024-U-LOLC/Challenges/Challenge 12/new-portfolio/src/assets/imgs/pegasus.jpg'
+import img6 from 'C:/Users/krana/Desktop/UofM-VIRT-FSF-PT-08-2024-U-LOLC/Challenges/Challenge 12/new-portfolio/src/assets/imgs/werewolf.jpg'
 
 const projectsData = [
 
