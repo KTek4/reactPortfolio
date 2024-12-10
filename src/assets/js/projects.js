@@ -1,47 +1,41 @@
-import img1 from 'C:/Users/krana/Desktop/UofM-VIRT-FSF-PT-08-2024-U-LOLC/Challenges/Challenge 12/new-portfolio/src/assets/imgs/awkward.jpg'
-import img2 from 'C:/Users/krana/Desktop/UofM-VIRT-FSF-PT-08-2024-U-LOLC/Challenges/Challenge 12/new-portfolio/src/assets/imgs/book.jpg'
-import img3 from 'C:/Users/krana/Desktop/UofM-VIRT-FSF-PT-08-2024-U-LOLC/Challenges/Challenge 12/new-portfolio/src/assets/imgs/dragon.jpg'
-import img4 from 'C:/Users/krana/Desktop/UofM-VIRT-FSF-PT-08-2024-U-LOLC/Challenges/Challenge 12/new-portfolio/src/assets/imgs/griffin.jpg'
-import img5 from 'C:/Users/krana/Desktop/UofM-VIRT-FSF-PT-08-2024-U-LOLC/Challenges/Challenge 12/new-portfolio/src/assets/imgs/pegasus.jpg'
-import img6 from 'C:/Users/krana/Desktop/UofM-VIRT-FSF-PT-08-2024-U-LOLC/Challenges/Challenge 12/new-portfolio/src/assets/imgs/werewolf.jpg'
+import img1 from '../imgs/awkward.jpg'
+import img2 from '../imgs/book.jpg'
+import img3 from '../imgs/dragon.jpg'
+import img4 from '../imgs/griffin.jpg'
+import img5 from '../imgs/pegasus.jpg'
+import img6 from '../imgs/werewolf.jpg'
+
 
 const projectsData = [
-
     {
-        name: "project-1",
-        description: "descripton",
+        name: "Portfolio",
         image: img1,
-        path: "github.com"
+        path: "https://github.com/KTek4/Portfolio",
     },
     {
-        name: "project-2",
-        description: "descripton",
+        name: "Vehicle Builder",
         image: img2,
-        path: "github.com"
+        path: "https://github.com/KTek4/Vehicle-Builder"
     },
     {
-        name: "project-3",
-        description: "descripton",
+        name: "Professional README Generator",
         image: img3,
-        path: "github.com"
+        path: "https://github.com/KTek4/Professional-README-Generator"
     },
     {
-        name: "project-4",
-        description: "descripton",
+        name: "React Portfolio",
         image: img4,
-        path: "github.com"
+        path: "https://github.com/KTek4/reactPortfolio"
     },
     {
-        name: "project-5",
-        description: "descripton",
+        name: "Weather Forecast App",
         image: img5,
-        path: "github.com"
+        path: "https://github.com/KTek4/Weather-Forecast-App"
     },
     {
-        name: "project-6",
-        description: "descripton",
+        name: "First Challenge",
         image: img6,
-        path: "github.com"
+        path: "https://github.com/KTek4/Challenge01"
     },
 ]
 

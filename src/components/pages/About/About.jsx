@@ -1,10 +1,13 @@
+import avatar from "../../../assets/imgs/worgen-paladin.jpg"
+import "./About.css"
+
 export default function About() {
   return (
     <div>
       <h1>About Me</h1>
       <div id="snapshot">
         <figure>
-          <img src="C:/Users/krana/Desktop/UofM-VIRT-FSF-PT-08-2024-U-LOLC/Challenges/Challenge 12/new-portfolio/src/components/pages/About/worgen paladin.jpg" alt="Avatar"/>
+          <img src={avatar} className="avatar"alt="Avatar"/>
           <figcaption>Avatar</figcaption>
         </figure>
       </div>
